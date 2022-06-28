@@ -1,3 +1,6 @@
+//Autor: Anthony Simbaña
+//Fecha: 27/06/2022
+
 /*El siguiente código resuelve el problema criptoartmetico
 		    T W O
 		  + T W O
